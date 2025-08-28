@@ -20,30 +20,15 @@
 
 <p align="left">
 
-- 🎓 I’m studying Computer Science and Engineering (CSE).<br>
-- 🌱 I’m exploring in depth full stack webdevelopment 😁
-- 💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with C++</b>
-- 👩‍💻 Right now, I’m focused on <b>Frontend development</b> and writing technical articles.<br>
-- 💬 Ask me about <b>HTML, CSS, JavaScript, or anything tech-related</b>.<br>
--  ⚡ Fun fact: <i>I'm lazy but smart</i> 😆.
+🎓 I’m studying Computer Science and Engineering (CSE).<br>
+🌱 I’m exploring in depth full stack webdevelopment 😁
+💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with C++</b>
+👩‍💻 Right now, I’m focused on <b>Frontend development</b> .<br>
+💬 Ask me about <b>HTML, CSS,  or anything tech-related</b>.<br>
+⚡ Fun fact: <i>I'm lazy but smart</i> 😆
 </p>
 
-<div align="center">
-  <!-- Medium Badge -->
-  <a href="https://medium.com/@mahiamomo12" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen?style=for-the-badge&logo=medium&logoColor=white" width="230" height="35" alt="Medium Blog" />
-  </a>
 
-  <!-- Gmail Badge -->
-  <a href="mailto:mahiamomo12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="35" alt="Gmail" />
-  </a>
-
-  <!-- LinkedIn Badge -->
-  <a href="https://linkedin.com/in/mahiamomo12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-</div>
 
  <!-- About Me -->
  
