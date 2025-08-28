@@ -18,7 +18,7 @@
 
 <!-- About Me -->
 
-<p align="left" padding-top="20px" >
+<p align="right" padding-top="50px" >
 
 - 🎓 I’m studying Computer Science and Engineering (CSE).<br>
 - 🌱 I’m exploring in depth full stack webdevelopment😁</br>
