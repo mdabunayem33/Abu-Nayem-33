@@ -18,14 +18,14 @@
 
 <!-- About Me -->
 
-<p align="left">
+<p align="left" padding-top="20px" >
 
-🎓 I’m studying Computer Science and Engineering (CSE).<br>
-🌱 I’m exploring in depth full stack webdevelopment😁</br>
-💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with C++ .</br>
-👩‍💻 Right now, I’m focused on <b>Frontend development</b>.<br>
-💬 Ask me about <b>HTML, CSS,  or anything tech-related</b>.<br>
-⚡ Fun fact: <i>I'm lazy but smart</i>😆
+- 🎓 I’m studying Computer Science and Engineering (CSE).<br>
+- 🌱 I’m exploring in depth full stack webdevelopment😁</br>
+- 💻 I’m currently learning <b>Data Structures & Algorithms (DSA) with C++ .</br>
+- 👩‍💻 Right now, I’m focused on <b>Frontend development</b>.<br>
+- 💬 Ask me about <b>HTML, CSS,  or anything tech-related</b>.<br>
+- ⚡ Fun fact: <i>I'm lazy but smart</i>😆
 </p>
 
 
